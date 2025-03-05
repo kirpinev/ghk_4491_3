@@ -37,8 +37,8 @@ const familyProducts: Array<Product> = [
 
 const products: Array<Product> = [
   {
-    title: "Кино, музыка, книги со скидкой 30%",
-    text: "Всё в подписке Wink",
+    title: "Скидка 30% на кино, музыку и книги",
+    text: "На платформе Wink",
     image: wink,
     isNew: true,
   },
